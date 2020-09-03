@@ -46,7 +46,7 @@ ________________________________________________________________________________
 [![Medium Badge](https://img.shields.io/badge/@iamsvedant-blue?style=social&logo=Medium&link=https://medium.com/@iamsvedant)](https://medium.com/@iamsvedant)
 [![Youtube Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)](https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)
 
-![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech-S&show_icons=true&theme=vue&count_private=true)
+![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true)
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
