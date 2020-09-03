@@ -47,6 +47,8 @@ ________________________________________________________________________________
 [![Youtube Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)](https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)
 
 ![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinamramunot-tech)](https://github.com/vinamramunot-tech/github-readme-stats)
+
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
