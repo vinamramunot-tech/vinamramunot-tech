@@ -1,7 +1,7 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 This is **Vinamra Munot**😊. I am currently pursuing B.Sc at Purdue University. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 ___________________________________________________________________________________________________________________________________
-**I am a self driven and versatile individual with a strong interest in Finance and passion for strategy development, public speaking, leadership activities and writing✍🏼. I am a sport enthusiast as well and a National Table Tennis Player🏓. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
+**I am a self driven and versatile individual with a strong interest in Software Development and passion for project management, public speaking, public singing and quantum physics. I am a sport enthusiast as well and a State Level Soccer Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
 ___________________________________________________________________________________________________________________________________
  I code for `Fun` in any language including:  
 | Python | C/C++/C# | Shell | Java | HTML | CSS | JS
