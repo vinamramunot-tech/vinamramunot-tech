@@ -33,7 +33,7 @@ ________________________________________________________________________________
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/35045612?s=400&v=4"></code>
 ___________________________________________________________________________________________________________________________________
 
-I am an **IT Intern** at **Deloitte**, **MLOps/DevOps/Hybrid-Cloud/Ansible Intern** at **LinuxWorld Informatics**, **Scholarship winner** of **Nutanix Hybrid Cloud Scholarship Program**, **Docker Expert** at **IIEC**, **Rust Lang Developer** at **Mozilla Club Bbsr**, **Member** at **Clymbe**, **Data Science Trainee** at **WorldQuant University** and a **Writer** at **Nerd For Tech**.
+I am a **.Net Developer** at **Rural Sourcing**, **Vice-President** at **ACM Chapter** at **Purdue University Fort Wayne**, **Rust Lang Developer** at **Mozilla Club Bbsr**.
 ___________________________________________________________________________________________________________________________________
 #### `Here's a little insight into what motivates me:`
 Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in fields like Healthcare, Consumer Goods, Education, Litigation, Finance, Transportation etc. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
@@ -42,9 +42,9 @@ ________________________________________________________________________________
 #### **Connect with me** on `Linkedin` for opportunities and `Instagram` for fun:
 ___________________________________________________________________________________________________________________________________
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/vinamramunot-tech)](https://github.com/vinamramunot-tech)
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vinamramunot/)](https://www.linkedin.com/in/vinamramunot/)
-[![Medium Badge](https://img.shields.io/badge/@iamsvedant-blue?style=social&logo=Medium&link=https://medium.com/@iamsvedant)](https://medium.com/@iamsvedant)
-[![Youtube Badge](https://img.shields.io/badge/-Vedant%20Shrivastava-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)](https://www.youtube.com/channel/UCRVUoA3dXXisZKVk-klKOhA?view_as=subscriber)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinamra%20Munot-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vinamramunot/)](https://www.linkedin.com/in/vinamramunot/)
+[![Medium Badge](https://img.shields.io/badge/@vinamramunot-blue?style=social&logo=Medium&link=https://medium.com/@vinamramunot)](https://medium.com/@vinamramunot)
+[![Youtube Badge](https://img.shields.io/badge/-Vinamra%20Munot-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCUj3x5Oq5fQPhjW1PBXwlJg?view_as=subscriber)](https://www.youtube.com/channel/UCUj3x5Oq5fQPhjW1PBXwlJg?view_as=subscriber)
 
 ![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinamramunot-tech)](https://github.com/vinamramunot-tech/github-readme-stats)
