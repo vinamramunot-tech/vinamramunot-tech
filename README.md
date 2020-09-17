@@ -1,11 +1,10 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 This is **Vinamra Munot**😊. I am currently pursuing B.Sc at Purdue University. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 ___________________________________________________________________________________________________________________________________
-**I am a self driven and versatile individual with a strong interest in Software Development and passion for project management, public speaking, public singing and quantum physics. I am a sport enthusiast as well and a State Level Soccer Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
+**I am a self driven and versatile individual with a strong interest in Software Development and passion for project management, public speaking, fifa and quantum physics. I am a sport enthusiast as well and a State Level Soccer Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
 ___________________________________________________________________________________________________________________________________
  I code for `Fun` in any language including:  
-| Python | C/C++/C# | Shell | Java | HTML | CSS | JS
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Python | C/C++/C# | Shell | Java | HTML | CSS | JS | 
 ___________________________________________________________________________________________________________________________________
 ### Technologies & Frameworks I have worked with :
 
@@ -13,7 +12,7 @@ ________________________________________________________________________________
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
