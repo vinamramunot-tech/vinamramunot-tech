@@ -59,33 +59,11 @@ ________________________________________________________________________________
 <a href=https://www.ruralsourcing.com/>
    <img src=https://img.shields.io/badge/RuralSourcing-Intern-blue>
 </a>
-<a href=https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program>
-   <img src=https://img.shields.io/badge/NutanixCloud-Scholar-red>
-</a>
-<a href=http://www.linuxworldindia.org/>
-   <img src=https://img.shields.io/badge/LinuxWorldIndia-Intern-yellow>
-</a>
-</br>
-<a href=https://www.facebook.com/IIECconnect/>
-   <img src=https://img.shields.io/badge/IIECRise-Trainee-brightgreen>
-</a>
-<a href=https://www.linkedin.com/company/nerdfortech/>
-   <img src=https://img.shields.io/badge/NerdforTech-Writer-blue>
-</a>
-<a href=https://www.clymbe.com/>
-   <img src=https://img.shields.io/badge/Clymbe-Member-red>
-</a>
-<a href=https://wqu.org/>
-   <img src=https://img.shields.io/badge/WorldQuantUniversity-Trainee-yellow>
-</a>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an Open Source Project in Go Lang.
-- 🌱 I’m currently learning Flutter, Silq.
-- 👯 I’m looking to collaborate on Silq and Go Lang.
-- 🤔 I’m looking for help with Flutter, Silq.
+- 🔭 I’m currently working on a Deep Learning project implemented over the web.
+- 🌱 I’m currently learning .Net Core, ASP.NET Core, TypeScript & Silq.
 - 💬 Ask me about .Net Core
 - 📫 How to reach me: vinamramunot@outlook.com
-- 😄 Pronouns: HE
 - ⚡ Fun fact: Soccer Fanatic
