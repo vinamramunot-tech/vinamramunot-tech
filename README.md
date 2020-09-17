@@ -49,18 +49,15 @@ ________________________________________________________________________________
 [![Medium Badge](https://img.shields.io/badge/@vinamramunot-blue?style=social&logo=Medium&link=https://medium.com/@vinamramunot)](https://medium.com/@vinamramunot)
 [![Youtube Badge](https://img.shields.io/badge/-Vinamra%20Munot-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCUj3x5Oq5fQPhjW1PBXwlJg?view_as=subscriber)](https://www.youtube.com/channel/UCUj3x5Oq5fQPhjW1PBXwlJg?view_as=subscriber)
 
-![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true))
+![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true)
 
 ___________________________________________________________________________________________________________________________________
 - 💬 Ask me about anything, I am happy to help anytime!
 - Active participant in Hackathons & CTFs
 - Open Source enthusiast
 
-<a href=https://www.facebook.com/mozillabbsr>
-   <img src=https://img.shields.io/badge/MozillaClubBbsr-Member-brightgreen>
-</a>
-<a href=https://www2.deloitte.com/in/en.html>
-   <img src=https://img.shields.io/badge/Deloitte-Intern-blue>
+<a href=https://www.ruralsourcing.com/>
+   <img src=https://img.shields.io/badge/Rural Sourcing-Intern-blue>
 </a>
 <a href=https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program>
    <img src=https://img.shields.io/badge/NutanixCloud-Scholar-red>
