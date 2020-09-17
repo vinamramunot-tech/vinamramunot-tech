@@ -17,19 +17,14 @@ ________________________________________________________________________________
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/2810941?s=280&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/53790f8272a4b6d44df1c516ef71909834d177c7/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646f636b65722e737667"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180519/vxe/kisspng-apache-tomcat-apache-http-server-web-server-java-s-5b0036cb6ea219.5097810415267406834532.jpg"></code>
-<code><img height="20" src="https://www.veritis.com/wp-content/uploads/2015/06/puppet.png"></code>
-<code><img height="20" src="https://www.veritis.com/wp-content/uploads/2015/06/terraform.png"></code>
-<code><img height="20" src="https://www.veritis.com/wp-content/uploads/2019/08/Prometheus.png"></code>
-<code><img height="20" src="https://repository-images.githubusercontent.com/238927599/670df700-49b8-11ea-8e07-4d0c886ccc9a"></code>
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/35045612?s=400&v=4"></code>
 ___________________________________________________________________________________________________________________________________
 
 I am a **.Net Developer** at **Rural Sourcing**, **Vice-President** at **ACM Chapter** at **Purdue University Fort Wayne**, **Rust Lang Developer** at **Mozilla Club Bbsr**.
