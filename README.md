@@ -57,7 +57,7 @@ ________________________________________________________________________________
 - Open Source enthusiast
 
 <a href=https://www.ruralsourcing.com/>
-   <img src=https://img.shields.io/badge/Rural Sourcing-Intern-blue>
+   <img src=https://img.shields.io/badge/RuralSourcing-Intern-blue>
 </a>
 <a href=https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program>
    <img src=https://img.shields.io/badge/NutanixCloud-Scholar-red>
