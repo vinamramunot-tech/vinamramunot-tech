@@ -1,5 +1,5 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-This is **Vinamra Munot**😊. I am currently pursuing B.Sc at Purdue University. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
+This is **Vinny**😊. I am currently pursuing B.Sc at Purdue University. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 ___________________________________________________________________________________________________________________________________
 **I am a self driven and versatile individual with a strong interest in Software Development and passion for project management, public speaking, fifa and quantum physics. I am a sport enthusiast as well and a State Level Soccer Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
 ___________________________________________________________________________________________________________________________________
@@ -62,8 +62,8 @@ ________________________________________________________________________________
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Deep Learning project implemented over the web.
-- 🌱 I’m currently learning .Net Core, ASP.NET Core, TypeScript & Silq.
+- 🔭 I’m currently working on a Deep Learning project implemented over the web, mobile and IoT
+- 🌱 I’m currently learning .Net Core, ASP.NET Core, TypeScript, SCSS
 - 💬 Ask me about .Net Core
 - 📫 How to reach me: vinamramunot@outlook.com
 - ⚡ Fun fact: Soccer Fanatic
