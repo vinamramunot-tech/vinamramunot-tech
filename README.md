@@ -1,7 +1,5 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-This is **Vinny**😊. I am currently pursuing B.Sc at Purdue University. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
-___________________________________________________________________________________________________________________________________
-**I am a self driven and versatile individual with a strong interest in Software Development and passion for project management, public speaking, fifa and quantum physics. I am a sport enthusiast as well and a State Level Soccer Player. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
+This is **Vinny**😊. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 ___________________________________________________________________________________________________________________________________
  I code for `Fun` in any language including:  
 | Python | C/C++/C# | Shell | Java | HTML | CSS | JS | 
@@ -36,7 +34,7 @@ ________________________________________________________________________________
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
 ___________________________________________________________________________________________________________________________________
 
-I am a **.Net Developer** at **Rural Sourcing**, **President** at **ACM Chapter** at **Purdue University Fort Wayne**
+I was a **.Net Developer** at **Rural Sourcing**, **President** at **ACM Chapter** at **Purdue University, Fort Wayne**
 ___________________________________________________________________________________________________________________________________
 #### `Here's a little insight into what motivates me:`
 Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in the fields of Healthcare. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
