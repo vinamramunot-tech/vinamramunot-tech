@@ -2,7 +2,7 @@
 This is **Vinny**😊. I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 ___________________________________________________________________________________________________________________________________
  I code for `Fun` in any language including:  
-| Python | C/C++/C# | Shell | Java | HTML | CSS | JS | 
+| Python | C++/C# | Shell | Java | HTML | CSS | JS | 
 ___________________________________________________________________________________________________________________________________
 ### Technologies & Frameworks I have worked with :
 
