@@ -49,6 +49,9 @@ ________________________________________________________________________________
 
 ![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true)
 
+---
+<figure><embed src="https://wakatime.com/share/@vinamramunot_tech/02909f38-0c3d-41d6-ae65-4d9588d8203b.svg"></embed></figure>
+
 ___________________________________________________________________________________________________________________________________
 - Active participant in CTFs
 - Open Source enthusiast
