@@ -50,8 +50,7 @@ ________________________________________________________________________________
 ![Vinamra Munot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinamramunot-tech&show_icons=true&theme=vue&count_private=true)
 
 ___________________________________________________________________________________________________________________________________
-- 💬 Ask me about anything, I am happy to help anytime!
-- Active participant in Hackathons & CTFs
+- Active participant in CTFs
 - Open Source enthusiast
 
 <a href=https://www.ruralsourcing.com/>
@@ -61,7 +60,5 @@ ________________________________________________________________________________
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Deep Learning project implemented over the web, mobile and IoT
-- 🌱 I’m currently learning .Net Core, ASP.NET Core, TypeScript, SCSS
-- 💬 Ask me about .Net Core
 - 📫 How to reach me: vinamramunot@outlook.com
 - ⚡ Fun fact: Soccer Fanatic
