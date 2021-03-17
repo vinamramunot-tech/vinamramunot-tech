@@ -55,11 +55,14 @@ ________________________________________________________________________________
 ---
 <figure><embed src="https://wakatime.com/share/@vinamramunot_tech/02909f38-0c3d-41d6-ae65-4d9588d8203b.svg"></embed></figure>
 
-___________________________________________________________________________________________________________________________________
+---
 - Active participant in CTFs
 - Open Source enthusiast
 
 <a href=https://www.ruralsourcing.com/>
+   <img src=https://img.shields.io/badge/RuralSourcing-Intern-blue>
+</a>
+<a href=https://www.tevora.com/>
    <img src=https://img.shields.io/badge/RuralSourcing-Intern-blue>
 </a>
 
