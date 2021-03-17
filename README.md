@@ -63,7 +63,7 @@ ________________________________________________________________________________
    <img src=https://img.shields.io/badge/RuralSourcing-Intern-blue>
 </a>
 <a href=https://www.tevora.com/>
-   <img src=https://img.shields.io/badge/RuralSourcing-Intern-blue>
+   <img src=https://img.shields.io/badge/Tevora-blue>
 </a>
 
 Here are some ideas to get you started:
