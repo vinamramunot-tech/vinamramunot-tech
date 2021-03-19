@@ -1,9 +1,6 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 This is **Vinny**😊. I am looking to pursue knowledge and help as many people as I can.
 ---
-<img src="https://komarev.com/ghpvc/?username=vinamramunot-tech" alt="profile views">
-
----
  I code for `Fun` in any language including:  
 | Python | C++/C# | Shell | Java | HTML | CSS | JS | 
 ___________________________________________________________________________________________________________________________________
