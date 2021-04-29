@@ -38,11 +38,8 @@ I was a **.Net Developer** at **Rural Sourcing**, **President** at **ACM Chapter
 ___________________________________________________________________________________________________________________________________
 #### `Here's a little insight into what motivates me:`
 Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in the fields of Healthcare. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
-____________________________________________________________________________________________________________________________________
-
-#### **Connect with me** on `Linkedin` for opportunities and `Instagram` for fun:
 ___________________________________________________________________________________________________________________________________
-[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/vinamramunot-tech)](https://github.com/vinamramunot-tech)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Vinamra%20Munot-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vinamramunot/)](https://www.linkedin.com/in/vinamramunot/)
 [![Medium Badge](https://img.shields.io/badge/@vinamramunot-blue?style=social&logo=Medium&link=https://medium.com/@vinamramunot)](https://medium.com/@vinamramunot)
 [![Youtube Badge](https://img.shields.io/badge/-Vinamra%20Munot-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCUj3x5Oq5fQPhjW1PBXwlJg?view_as=subscriber)](https://www.youtube.com/channel/UCUj3x5Oq5fQPhjW1PBXwlJg?view_as=subscriber)
