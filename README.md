@@ -33,9 +33,6 @@ ________________________________________________________________________________
 <code><img height="20" src="https://camo.githubusercontent.com/53790f8272a4b6d44df1c516ef71909834d177c7/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646f636b65722e737667"></code>
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
 ___________________________________________________________________________________________________________________________________
-
-I was a **.Net Developer** at **Rural Sourcing**, **President** at **ACM Chapter** at **Purdue University, Fort Wayne**
-___________________________________________________________________________________________________________________________________
 #### `Here's a little insight into what motivates me:`
 Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in the fields of Healthcare. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
 ___________________________________________________________________________________________________________________________________
