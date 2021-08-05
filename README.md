@@ -1,8 +1,8 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-This is **Vinny**😊. I am pursuing Cyber Security and help as many people as I can.
+This is **Vinny**😊. I am a Cyber Security Enthusiast
 ---
  I code for `Fun` in any language including:  
-| Python | C++/C# | Shell | Java | HTML | CSS | JS | 
+| Python | C++ | C | Shell | Java | HTML | CSS | JS | 
 ___________________________________________________________________________________________________________________________________
 ### Technologies & Frameworks I have worked with :
 
@@ -62,6 +62,6 @@ ________________________________________________________________________________
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Deep Learning project implemented over the web, mobile and IoT
+- 🔭 I’m currently working on a Optical Character Recognition Pipeline implemented as a cmdline app
 - 📫 How to reach me: vinamramunot@outlook.com
 - ⚡ Fun fact: Soccer Fanatic
