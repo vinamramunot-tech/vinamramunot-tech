@@ -1,5 +1,4 @@
-### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-This is **Vinny**😊. I am a Cyber Security Enthusiast
+Hello Everyone! This is **Vinamra/Vinny**. I am a Cyber Security Enthusiast
 ---
  I code for `Fun` in any language including:  
 | Python | C++ | C | Shell | Java | HTML | CSS | JS | 
