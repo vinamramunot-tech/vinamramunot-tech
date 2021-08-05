@@ -51,10 +51,13 @@ ________________________________________________________________________________
 - Open Source enthusiast
 
 <a href=https://www.ruralsourcing.com/>
-   <img src=https://img.shields.io/badge/RuralSourcing-ExIntern-blue>
+   <img src=https://img.shields.io/badge/RuralSourcing-ExIntern-red>
 </a>
 <a href=https://www.tevora.com/>
-   <img src=https://img.shields.io/badge/Tevora-ExIntern-blue>
+   <img src=https://img.shields.io/badge/Tevora-ExIntern-green>
+</a>
+<a href=https://www.parkview.com/locations/mirro-center-for-research-and-innovation/mirro/>
+   <img src=https://img.shields.io/badge/ParkviewHealthMirroCenter-ExIntern-green>
 </a>
 
 Here are some ideas to get you started:
