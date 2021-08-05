@@ -51,10 +51,10 @@ ________________________________________________________________________________
 - Open Source enthusiast
 
 <a href=https://www.ruralsourcing.com/>
-   <img src=https://img.shields.io/badge/RuralSourcing-Ex-Intern-blue>
+   <img src=https://img.shields.io/badge/RuralSourcing-ExIntern-blue>
 </a>
 <a href=https://www.tevora.com/>
-   <img src=https://img.shields.io/badge/Tevora-Intern-blue>
+   <img src=https://img.shields.io/badge/Tevora-ExIntern-blue>
 </a>
 
 Here are some ideas to get you started:
